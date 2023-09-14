@@ -1,0 +1,15 @@
+.users {
+  background-color: rgb(28, 59, 181);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.box {
+  background-color: #897e7e;
+  color: rgb(9, 15, 15);
+  padding: 4rem;
+  margin: 1rem;
+  align-items: center;
+}
